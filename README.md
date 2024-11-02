@@ -82,7 +82,10 @@ UNet training datasets
 UNet predicted results
 
 
+
 ## results_pcd & results_virtual spikes
 
 Extraction pipeline results
 
+# How to cite
+Ling, Y., Zhao, Q., Liu, W. et al. Detection and characterization of spike architecture based on deep learning and X-ray computed tomography in barley. Plant Methods 19, 115 (2023). <a herf=https://doi.org/10.1186/s13007-023-01096-w>10.1186/s13007-023-01096-w<\a>
